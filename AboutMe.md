@@ -4,11 +4,11 @@
 
 **My Hard Skills**
 
-- Wordpress
-- Webflow
-- SEO
-- CSS
-- HTML
+- **Wordpress**
+- **Webflow**
+- **SEO**
+- **CSS**
+- **HTML**
 
 **You can find me here:**
 
