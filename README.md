@@ -1,4 +1,4 @@
-# About
+# About ✌
 
 Hello, my name is Kolja, I am 27 years old and I am a trained screen designer. In the last 4 years, I have worked in several agencies. Now I am about to complete the bootcamp of the "Neue Fische Gmbh" to be able to focus completely on my career. I would be happy if you accompany me on my way.
 
